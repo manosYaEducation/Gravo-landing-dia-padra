@@ -2,3 +2,7 @@
 	path = landings/version-B
 	url = https://github.com/guacho175/gravo.git
 	branch = v2
+[submodule "landings/version-C"]
+	path = landings/version-C
+	url = https://github.com/guacho175/gravo.git
+	branch = v3
