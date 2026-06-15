@@ -1,0 +1,4 @@
+[submodule "landings/version-B"]
+	path = landings/version-B
+	url = https://github.com/guacho175/gravo.git
+	branch = v2
